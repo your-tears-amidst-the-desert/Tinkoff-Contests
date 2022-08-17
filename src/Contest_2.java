@@ -1,3 +1,4 @@
+//задача про рулет
 import java.util.Scanner;
 
 public class Contest_2 {
