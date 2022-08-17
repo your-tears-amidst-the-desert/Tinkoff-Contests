@@ -1,4 +1,4 @@
-//задача про тариа
+//задача про тариф
 import java.util.Scanner;
 
 public class Contest_1 {
