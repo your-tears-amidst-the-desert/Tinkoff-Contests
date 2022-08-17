@@ -1,3 +1,4 @@
+//задача про генерацию тестов
 import java.util.Scanner;
 
 public class Contest_5_Right {
