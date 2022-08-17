@@ -1,3 +1,4 @@
+//задача про этажи и лифты
 import java.util.Scanner;
 
 public class Contest_3 {
