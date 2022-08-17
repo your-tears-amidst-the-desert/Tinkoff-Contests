@@ -1,3 +1,4 @@
+//задача про генерацию тестов
 import java.util.ArrayList;
 import java.util.Scanner;
 
