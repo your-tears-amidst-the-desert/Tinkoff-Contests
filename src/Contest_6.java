@@ -1,3 +1,4 @@
+//задача про разбиение по двум командам
 import java.util.ArrayList;
 import java.util.Scanner;
 
